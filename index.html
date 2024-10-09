@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab - 1 Number Guessing Game</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://kit.fontawesome.com/453417f2a9.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>I'm thinking of a number between 1-100,<br /><span>Can you guess it?</span></h1>
+      <div class="row">
+        <h3 style="color: white;">Enter a number :</h3>
+        <input type="number" name="inp" id="inp"/>
+        <button type="submit" class="btn" id="button">Guess</button>
+      </div>
+      <div class="result">
+        <p class="guess">No. of guesses : <span id="guesses"></span></p>
+        <span  class="guess" id="num">Guessed Numbers are : </span>
+        <span id="msg"></span>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
