@@ -34,7 +34,7 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
-## 🛠 Game Mechanics
+## Game Mechanics
 - **Hints**: 
   - When within ±5 of the target number, you'll get a "close" hint
   - Helps guide your next guess
