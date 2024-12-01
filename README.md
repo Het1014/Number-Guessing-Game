@@ -1,12 +1,12 @@
-# 🎲 Number Guessing Game
+# Number Guessing Game
 
-## 📝 Overview
+## Overview
 
 This is a fun and interactive Number Guessing Game built with HTML, CSS, and JavaScript. The game challenges players to guess a randomly generated number between 1 and 100 in as few attempts as possible.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Random Number Generation**: A unique number between 1-100 is generated for each game
 - **Guess Tracking**: 
@@ -21,7 +21,7 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
-## 🚀 How to Play
+## How to Play
 
 1. Open the `index.html` file in your web browser
 2. Look at the text that says "I'm thinking of a number between 1-100"
@@ -41,7 +41,7 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -50,7 +50,7 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository
    ```bash
@@ -61,7 +61,7 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection (for Font Awesome CDN)
