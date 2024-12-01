@@ -49,7 +49,7 @@ while (true) {
             msg.innerHTML = "";
         }, 1900);
         inp.value = "";
-        guesses.innerText = guess;
+        guesses.innerText = "";
         break;
     } else {
         if(+inp.value > rnum) {
