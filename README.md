@@ -62,9 +62,11 @@ A fun and interactive Number Guessing Game built with HTML, CSS, and JavaScript.
 ---
 
 ## Screenshots
-![Image1](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/correct.png)
-![Image2](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/wrong.png)
+![Image1](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/default.png)
+![Image2](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/correct.png)
 ![Image3](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/closer.png)
+![Image4](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/wrong.png)
+![Image5](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/invalid.png)
 
 ---
 
