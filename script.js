@@ -112,7 +112,6 @@ while (true) {
             let temp2 = num.textContent += temp1;
             num.innerText = temp2;
             inp.value = "";
-            console.log(rnum, +inp.value, guess);
             setTimeout(() => {
                 location.reload(true);
             }, 3000);
