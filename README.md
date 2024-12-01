@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a fun and interactive Number Guessing Game built with HTML, CSS, and JavaScript. The game challenges players to guess a randomly generated number between 1 and 100 in as few attempts as possible.
+A fun and interactive Number Guessing Game built with HTML, CSS, and JavaScript. The game challenges players to guess a randomly generated number between 1 and 100 in as few attempts as possible.
 
 ---
 
@@ -61,9 +61,18 @@ This is a fun and interactive Number Guessing Game built with HTML, CSS, and Jav
 
 ---
 
+## Screenshots
+![Image1](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/correct.png)
+![Image2](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/wrong.png)
+![Image3](https://raw.githubusercontent.com/Het1014/Number-Guessing-Game/master/assets/closer.png)
+
+---
+
 ## Prerequisites
 
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection (for Font Awesome CDN)
+
+---
 
 Demo: [Click Here](https://github.com/het1014/number-guessing-game)
