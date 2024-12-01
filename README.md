@@ -77,4 +77,4 @@ A fun and interactive Number Guessing Game built with HTML, CSS, and JavaScript.
 
 ---
 
-Demo: [Click Here](https://github.com/het1014/number-guessing-game)
+Demo: [Click Here](https://het1014.github.io/Number-Guessing-Game/)
